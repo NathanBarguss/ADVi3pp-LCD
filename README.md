@@ -11,9 +11,11 @@
 **ADVi3++** is split into two sister projects:
 
 * ADVi3pp-LCD: this project, a customization of the LCD resources
-* [ADVi3pp-Mainboard](https://github.com/andrivet/ADVi3pp-Mainboard): a fork of Marlin firmware
+* [ADVi3pp-Marlin](https://github.com/andrivet/ADVi3pp-Marlin): a fork of Marlin firmware
 
-**IMPORTANT**: You need to flash both components (LCD and Mainboard). For full explanations about **ADVi3++** and how to flash, look at the sister project [ADVi3pp-Mainboard](https://github.com/andrivet/ADVi3pp-Mainboard).
+**IMPORTANT**: You need to flash both components (LCD and Mainboard). For full explanations about **ADVi3++** and how to flash, look at the sister project [ADVi3pp-Marlin](https://github.com/andrivet/ADVi3pp-Marlin).
+
+![screens](https://user-images.githubusercontent.com/981049/31637836-ebc14dc0-b2d0-11e7-8d02-d14152116ba9.gif)
 
 # Thanks
 
