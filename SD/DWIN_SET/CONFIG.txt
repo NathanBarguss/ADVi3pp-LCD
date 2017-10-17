@@ -1,0 +1,9 @@
+R1=07      ; Band Rate, 0x07=115200
+R2=28      ; SYS_CFG, 0x20=TP_LED, 0x08=TPSAUTO
+R3=5A      ; Frame header, High-byte
+R6=40      ; Brightness of backlight, 0x40=100% brightness
+R7=10      ; Brightness of backlight in sleep mode, 0x10=25% brightness
+R8=14      ; Light-up time，0x14=20 seconds
+RA=A5      ; Frame header, Low-byte
+RC=00      ; AUX_CFG
+STOP_DWIN_OS;
