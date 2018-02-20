@@ -1,5 +1,5 @@
 R1=07      ;Band Rate,07=115200
-R2=28      ;Sys_CFG
+R2=0C      ;Sys_CFG
 R3=5A      ;
 R6=40      ;
 R7=10      ;
