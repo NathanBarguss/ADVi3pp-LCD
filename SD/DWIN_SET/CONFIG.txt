@@ -7,6 +7,5 @@ R7=10      ;
 R8=FF      ;
 R9=19      ;
 RA=A5      ;
-RC=00      ;
+RC=20      ;
 STOP_DWIN_OS;
-
