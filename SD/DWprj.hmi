@@ -4,6 +4,7 @@ VARCount=64
 SCREENDSIZE=480X272
 SPADDRESS=5000
 [IMG]
+000=000_boot.bmp
 001=001_boot.bmp
 002=002_boot.bmp
 003=003_boot.bmp
@@ -103,3 +104,9 @@ SPADDRESS=5000
 099=099_copyrights_p.bmp
 100=100_sensor_tuning.bmp
 101=101_sensor_tuning_p.bmp
+102=102_sensor_grid.bmp
+103=103_sensor_grid_p.bmp
+104=104_filament_change.bmp
+105=105_filament_change_p.bmp
+106=106_z_height.bmp
+107=107_z_height_p.bmp
