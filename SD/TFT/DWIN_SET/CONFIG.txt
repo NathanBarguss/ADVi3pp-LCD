@@ -1,0 +1,8 @@
+R1=07      ;
+R2=0D      ;
+R3=5A      ;
+R6=40      ;
+R7=10      ;
+R8=FF      ;
+RA=A5      ;
+STOP_DWIN_OS;
